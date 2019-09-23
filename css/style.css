@@ -1,0 +1,125 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.blue-heading {
+  color: #314584;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+/* Navbar */
+.navbar-nav .nav-item .nav-link:hover {
+  color: red;
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: #314584;
+}
+
+.navbar .dropdown a {
+  color: #314584;
+}
+
+nav .btn-light {
+  color: red;
+}
+
+/* Jumbotron-block */
+.jumbotron-block h1 {
+  font-size: 55px;
+  letter-spacing: 1px;
+}
+
+.jumbotron-block p {
+  letter-spacing: 0.3px;
+  color: #7a8085;
+}
+
+.jumbotron-block .btn-danger {
+  border-radius: 35px;
+  letter-spacing: 0.3px;
+}
+
+.jumbotron-block span {
+  letter-spacing: 0.3px;
+  color: #314584;
+}
+
+/* Slick Slider */
+.slider {
+  z-index: 999;
+}
+
+.slider div > img {
+  width: 100%;
+}
+
+/* Our Creative work */
+.creative-work h2 {
+  width: 30%;
+  letter-spacing: 1px;
+  color: #314584;
+}
+
+.creative-work .d-flex div {
+  width: 290px;
+  height: 150px;
+  background-color: #c3d0d8;
+  margin-bottom: 20px;
+}
+
+.creative-work a {
+  color: red;
+}
+
+/* Contact us */
+.contact-us p,
+h5 {
+  letter-spacing: 1px;
+  color: #314584;
+}
+
+.contact-us h6 {
+  color: red;
+  margin-top: 100px;
+}
+
+.contact-us .btn-danger {
+  border-radius: 35px;
+  letter-spacing: 0.3px;
+}
+
+/* Footer */
+
+.footer {
+  background-color: #314584;
+}
+
+.footer p,
+a {
+  color: white;
+}
+
+.footer h2 {
+  color: red;
+}
+
+.footer li {
+  list-style-type: none;
+}
+
+.footer .list-wrapper {
+  width: 400px;
+}
+
+.footer ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.footer .icons {
+  width: 300px;
+}
