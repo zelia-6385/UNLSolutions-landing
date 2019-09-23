@@ -1,12 +1,10 @@
 {
-  "name": "bootstrap4-landing",
+  "name": "unl-solutions-landing",
   "version": "1.0.0",
-  "description": "simple-landing",
+  "description": "UNL Solutions test task",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "zelia-6385",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.3.1",
